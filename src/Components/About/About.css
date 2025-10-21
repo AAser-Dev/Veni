@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap');
+
+.about-section {
+  font-family: 'Tajawal', sans-serif;
+  direction: rtl;
+}
+
+.about-section * {
+  text-align: right;
+}
+
+.about-heading {
+  font-family: 'Tajawal', sans-serif;
+  font-weight: 700;
+  letter-spacing: normal;
+  direction: rtl;
+}
+
+.about-subheading {
+  font-family: 'Tajawal', sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  direction: rtl;
+}
+
+.about-text {
+  font-family: 'Tajawal', sans-serif;
+  direction: rtl;
+  text-align: justify;
+  font-weight: 400;
+  line-height: 1.8;
+}
+.color{
+  color: #ffae00;
+}
+.color1{
+  color: darkblue;
+}
+.bgcoloro{
+  background-color: rgba(0, 0, 139, 0.233);
+}
+.m li::before {
+  content: "• "; /* Bullet point */
+  color: #ffae00; /* Bullet color */
+  font-weight: bold; /* Bullet weight */
+  margin-left: 0.65em; /* Bullet margin */
+}

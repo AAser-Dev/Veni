@@ -1,0 +1,40 @@
+ img {
+    transition: transform 0.3s ease-in-out;
+  }
+  img:hover {
+    transform: scale(1.05);
+  }
+  .container-fluid {
+    background-color: #f8f9fa; /* خلفية فاتحة */
+    padding: 3rem 1rem;
+    border-radius: 15px;
+  }
+.hover-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+}
+.animated-card {
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+.animated-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+}
+
+/* Respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .animated-card, .hover-card {
+    transition: none !important;
+    transform: none !important;
+  }
+}
+
+/* Visible focus for accessibility */
+:focus {
+  outline: 3px solid rgba(0,123,255,0.25);
+  outline-offset: 3px;
+}

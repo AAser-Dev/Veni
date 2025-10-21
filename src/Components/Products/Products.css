@@ -1,0 +1,9 @@
+.Products {
+  /* أضف ستايلك هنا */
+}
+
+@media (max-width: 576px) {
+  .about-text { font-size: 1rem; min-height: 64px; }
+}
+
+/* Override global About rules so the page heading centers here */
