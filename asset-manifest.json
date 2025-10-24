@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Veni/static/css/main.4d191bee.css",
-    "main.js": "/Veni/static/js/main.e38c758c.js",
+    "main.css": "/Veni/static/css/main.d8cc7968.css",
+    "main.js": "/Veni/static/js/main.942cfde6.js",
     "static/js/453.74a175e0.chunk.js": "/Veni/static/js/453.74a175e0.chunk.js",
     "static/media/aboutpic.png": "/Veni/static/media/aboutpic.2a58189fad8ae1de99c9.png",
     "static/media/2025-10-04_12-00.png": "/Veni/static/media/2025-10-04_12-00.097525a807b126fc4096.png",
@@ -23,12 +23,12 @@
     "static/media/Certificates6.png": "/Veni/static/media/Certificates6.2e09420f157eb7b6b3eb.png",
     "static/media/df37d62e-e785-410e-b2de-0ecbc017d663.jpeg": "/Veni/static/media/df37d62e-e785-410e-b2de-0ecbc017d663.a03424df91c99c1625ae.jpeg",
     "index.html": "/Veni/index.html",
-    "main.4d191bee.css.map": "/Veni/static/css/main.4d191bee.css.map",
-    "main.e38c758c.js.map": "/Veni/static/js/main.e38c758c.js.map",
+    "main.d8cc7968.css.map": "/Veni/static/css/main.d8cc7968.css.map",
+    "main.942cfde6.js.map": "/Veni/static/js/main.942cfde6.js.map",
     "453.74a175e0.chunk.js.map": "/Veni/static/js/453.74a175e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d191bee.css",
-    "static/js/main.e38c758c.js"
+    "static/css/main.d8cc7968.css",
+    "static/js/main.942cfde6.js"
   ]
 }
