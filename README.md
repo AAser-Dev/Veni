@@ -29,30 +29,7 @@
 
 ## 🚀 البدء مع المشروع
 
-### المتطلبات الأساسية
 
-- Node.js (الإصدار 14 أو أحدث)
-- npm أو yarn
-
-### التثبيت
-
-```bash
-# استنساخ المشروع
-git clone <repository-url>
-
-# الانتقال إلى مجلد المشروع
-cd veni
-
-# تثبيت الحزم
-npm install
-```
-
-### تشغيل المشروع
-
-```bash
-# تشغيل وضع التطوير
-npm start
-```
 
 افتح [https://aaser-dev.github.io/Veni/#/](https://aaser-dev.github.io/Veni/#/) لعرض المشروع في المتصفح.
 
